@@ -6,7 +6,7 @@ Front-End, Mobile Developer, and UI/UX enthusiast
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="[https://www.linkedin.com/in/alfin-shalahuddin-ahmad-7593a9179)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfin-shalahuddin-ahmad-7593a9179" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/alfin-shalahuddin-ahmad-7593a9179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfin-shalahuddin-ahmad-7593a9179" height="20" width="30" /></a>
 </p>
 
 ### 🖥️ Language and Tools:

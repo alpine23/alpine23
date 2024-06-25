@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Alfin Shalahuddin Ahmd 
 Front-End, Mobile Developer, and UI/UX enthusiast
--  I’m currently learning **Javascript and Dart Flutter**
+-  I’m currently learning **Java and Dart Flutter**
 
 - 📫 How to reach me **alfinahmad593@gmail.com**
 
